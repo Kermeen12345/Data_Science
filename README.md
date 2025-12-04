@@ -20,13 +20,23 @@ Encourage hands-on practice and experimentation
 
 # Repository Structure
 DS/
+
 ├── Prac 1
+
 ├── Prac_10.ipynb
+
 ├── Prac_2_A.ipynb
+
 ├── Prac_2_B_&_C.ipynb
+
 ├── Prac_3_A.ipynb
+
 ├── Prac_3_B.ipynb
+
 ├── Prac_4.ipynb
+
 ├── Prac_5.ipynb
+
 ├── Prac_7.ipynb
+
 └── Prac_9.ipynb
