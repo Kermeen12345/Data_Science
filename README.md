@@ -41,4 +41,6 @@ DS/
 
 ├── Prac_7.ipynb
 
+├── Prac_8.ipynb
+
 └── Prac_9.ipynb
